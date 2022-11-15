@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing Engineering in Computer Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pratyushkumar1237@gmail.com
-- My Badges 👇 [![@krpratyush's Holopin board](https://holopin.me/krpratyush)](https://holopin.io/@krpratyush)
+- My Hacktoberfest Badges 👇 [![@krpratyush's Holopin board](https://holopin.me/krpratyush)](https://holopin.io/@krpratyush)
 
 <!---
 pratyushkr11/pratyushkr11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
