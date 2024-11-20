@@ -1,7 +1,3 @@
-Here's a rewritten version of your GitHub bio to make it more engaging and eye-catching:  
-
----
-
 ### Hi there! I'm **Pratyush Kumar** 👋  
 🎯 **Passionate Innovator** in **Generative AI, Machine Learning**, and **Web Development**  
 
